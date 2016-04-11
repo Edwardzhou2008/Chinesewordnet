@@ -1,0 +1,2 @@
+# Chinesewordnet
+Chinese word net
